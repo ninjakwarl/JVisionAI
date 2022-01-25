@@ -1,0 +1,16 @@
+application\FaceRecognizer.class
+application\Main.class
+application\OCR.class
+application\SampleController$3.class
+application\FaceDetectionController.class
+application\FaceDetector.class
+application\FaceRecognizer$1.class
+application\ColoredObjectTracker.class
+application\SampleController$2.class
+application\SampleController$1.class
+application\FaceDetector$1.class
+application\Database.class
+application\SquareDetector.class
+application\SampleController.class
+application\MotionDetector.class
+application\FaceDetectionController$1.class
